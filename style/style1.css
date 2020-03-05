@@ -1,0 +1,45 @@
+/*AZULEJO*/
+.azulejos {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  zoom: 2.5;
+}
+
+.a1 {
+  transform: translate(-50px, -50px);
+}
+.a2 {
+  transform: translate(50px, -50px) rotate(90deg);
+}
+.a3 {
+  transform: translate(-50px, 50px) rotate(270deg);
+}
+.a4 {
+  transform: translate(50px, 50px) rotate(180deg);
+}
+
+.up {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 20px 20px 0 0;
+  border-color: #313977 transparent transparent transparent;
+  transition: opacity .4s ease-in-out;
+}
+
+.down {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 0 20px 20px;
+  border-color: transparent transparent #7982ce transparent;
+  transition: opacity .4s ease-in-out;
+}

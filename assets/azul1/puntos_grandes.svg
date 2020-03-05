@@ -1,0 +1,16 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	  viewBox="0 0 250 250" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+	 <style type="text/css">>
+		 .puntos_grandes{
+		 fill:#28420f;
+		 }
+	 </style>
+	 <g class="puntos_grandes" fill="#28420f">
+
+   	<circle class="puntos_grandes" cx="107.8" cy="50.7" r="8.1"/>
+   	<circle class="puntos_grandes" cx="107.8" cy="172.8" r="8.1"/>
+   	<circle class="puntos_grandes" cx="167.9" cy="112.7" r="8.1"/>
+   	<circle class="puntos_grandes" cx="47.8" cy="112.7" r="8.1"/>
+   </g>
+
+</svg>
